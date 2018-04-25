@@ -38,5 +38,5 @@ namespace lab1
     }
 }
 
-    }
-}
+    
+
